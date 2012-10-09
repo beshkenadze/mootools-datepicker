@@ -1,0 +1,32 @@
+{
+    "name": "stepcart/datepicker-library",
+    "type": "library",
+    "description": "MooTools Datepicker class",
+    "keywords": ["Datepicker", "Calendar","Picker", "javascript", "library"],
+    "homepage": "https://stepcart.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "astolwijk",
+            "homepage": "http://www.aryweb.nl/projects/mootools-datepicker/",
+            "role": "Developer"
+        },
+        {
+            "name": "StepCart Development Team",
+            "email": "contributor@stepcart.com",
+            "homepage": "http://stepcart.com",
+            "role": "Contributor"
+        },
+        {
+            "name": "Aleksandr Beshkenadze",
+            "email": "beshkenadze@gmail.com",
+            "homepage": "http://beshkenadze.net",
+            "role": "Contributor"
+        }
+    ],
+    "require": {
+        "stepcart/mootools-core": ">=1.4.5",
+        "stepcart/mootools-more": ">=1.4.0"
+    },              
+    "target-dir": "Resources/public/js"
+}
