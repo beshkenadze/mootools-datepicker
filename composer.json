@@ -28,5 +28,10 @@
         "stepcart/mootools-core": ">=1.4.5",
         "stepcart/mootools-more": ">=1.4.0"
     },              
-    "target-dir": "Resources/public/js"
+    "target-dir": "Resources/public/js",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0-dev"
+        }
+    }
 }
